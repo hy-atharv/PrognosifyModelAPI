@@ -1,0 +1,564 @@
+{
+  "diseases": [
+    {
+      "name": "Influenza",
+      "symptoms": [
+        "High fever (above 100.4°F or 38°C)",
+        "Severe body aches and muscle pain",
+        "Persistent cough with phlegm",
+        "Fatigue and weakness",
+        "Sore throat and difficulty swallowing",
+        "Headache, particularly frontal",
+        "Shortness of breath or chest discomfort"
+      ],
+      "precautions": [
+        "Get vaccinated annually",
+        "Wash hands frequently with soap and water",
+        "Avoid close contact with sick individuals",
+        "Cover your mouth and nose with a tissue or elbow when sneezing or coughing",
+        "Stay home when feeling unwell"
+      ],
+      "daily_health_routine": [
+        "Maintain a balanced diet rich in vitamins (especially A and C) and minerals (such as zinc)",
+        "Engage in moderate-intensity exercise for at least 30 minutes",
+        "Ensure a minimum of 7-8 hours of quality sleep each night",
+        "Stay well-hydrated by drinking at least 8 glasses of water daily",
+        "Manage stress through relaxation techniques or hobbies",
+        "Practice good respiratory hygiene, including regular ventilation of living spaces",
+        "Consider immune-boosting supplements as advised by healthcare professionals"
+      ]
+    },
+    {
+      "name": "Common Cold",
+      "symptoms": [
+        "Runny or stuffy nose",
+        "Sneezing and congestion",
+        "Sore throat and postnasal drip",
+        "Coughing, often with mucus",
+        "Watery eyes",
+        "Mild headache",
+        "Mild fatigue"
+      ],
+      "precautions": [
+        "Wash hands regularly with soap and water",
+        "Avoid touching face, especially eyes, nose, and mouth",
+        "Use tissues when sneezing or coughing and dispose of them properly",
+        "Stay hydrated with warm fluids like herbal teas and broths",
+        "Get plenty of rest and allow the body to recover"
+      ],
+      "daily_health_routine": [
+        "Consume a diet high in vitamin C and antioxidants",
+        "Maintain good personal hygiene to prevent the spread of viruses",
+        "Include regular handwashing as part of your routine",
+        "Practice stress-reducing activities, such as meditation or yoga",
+        "Ensure a daily intake of probiotics to support the immune system",
+        "Stay physically active with light exercises like walking or stretching",
+        "Stay well-hydrated to help flush out toxins from the body"
+      ]
+    },
+    {
+      "name": "Eczema",
+      "symptoms": [
+        "Itchy and inflamed skin",
+        "Red or brownish patches on the skin",
+        "Small, raised bumps that may ooze fluid",
+        "Cracked or scaly skin",
+        "Raw and sensitive skin",
+        "Swelling and discoloration",
+        "Thickened or rough skin"
+      ],
+      "precautions": [
+        "Moisturize the skin regularly to prevent dryness",
+        "Use mild, fragrance-free soaps and detergents",
+        "Avoid scratching the affected areas to prevent infections",
+        "Wear loose-fitting, breathable clothing",
+        "Identify and avoid triggers, such as certain foods or environmental factors"
+      ],
+      "daily_health_routine": [
+        "Apply a hypoallergenic and fragrance-free moisturizer at least twice a day",
+        "Take short, lukewarm baths with mild soap",
+        "Use a humidifier to maintain skin hydration, especially during dry weather",
+        "Wear soft, breathable fabrics like cotton",
+        "Practice stress-management techniques to reduce flare-ups",
+        "Avoid sudden changes in temperature or humidity",
+        "Consult a dermatologist for personalized skincare recommendations"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "symptoms": [
+        "Shortness of breath",
+        "Wheezing sound during breathing",
+        "Coughing, especially at night or early morning",
+        "Chest tightness or pain",
+        "Fatigue during physical activity",
+        "Difficulty sleeping due to breathing problems",
+        "Reduced lung function"
+      ],
+      "precautions": [
+        "Take prescribed asthma medications as directed",
+        "Identify and avoid triggers, such as allergens or irritants",
+        "Keep rescue inhaler accessible and use as needed",
+        "Maintain regular check-ups with your healthcare provider",
+        "Create an asthma action plan with your doctor"
+      ],
+      "daily_health_routine": [
+        "Use air purifiers to reduce indoor air pollutants",
+        "Keep living spaces clean and dust-free",
+        "Exercise regularly to improve lung function and overall fitness",
+        "Avoid smoking and exposure to secondhand smoke",
+        "Monitor air quality and pollen levels before outdoor activities",
+        "Practice breathing exercises to enhance respiratory strength",
+        "Maintain a healthy weight through a balanced diet and regular physical activity"
+      ]
+    },
+    {
+      "name": "Hyperthyroidism",
+      "symptoms": [
+        "Unintentional weight loss",
+        "Rapid or irregular heartbeat",
+        "Increased appetite",
+        "Nervousness and irritability",
+        "Sweating and heat intolerance",
+        "Fatigue and muscle weakness",
+        "Sleep disturbances"
+      ],
+      "precautions": [
+        "Take prescribed medications regularly",
+        "Follow up with regular thyroid function tests",
+        "Manage stress through relaxation techniques",
+        "Avoid excessive consumption of iodine-rich foods",
+        "Consult an endocrinologist for personalized advice"
+      ],
+      "daily_health_routine": [
+        "Include iodine in your diet through sources like seafood and dairy",
+        "Practice regular stress-reducing activities such as meditation",
+        "Get adequate sleep to support overall health",
+        "Consume a well-balanced diet rich in vitamins and minerals",
+        "Engage in moderate-intensity exercise for at least 30 minutes",
+        "Attend regular check-ups with an endocrinologist",
+        "Be cautious with caffeine intake as it may exacerbate symptoms"
+      ]
+    },
+    {
+      "name": "Allergic Rhinitis",
+      "symptoms": [
+        "Sneezing and runny nose",
+        "Itchy or watery eyes",
+        "Congestion in the nasal passages",
+        "Coughing",
+        "Fatigue",
+        "Headache",
+        "Impaired sense of smell or taste"
+      ],
+      "precautions": [
+        "Identify and avoid allergens triggering symptoms",
+        "Use air purifiers in living spaces",
+        "Keep windows closed during high pollen seasons",
+        "Wash bedding and curtains regularly",
+        "Consider allergy-friendly pets or minimize contact with animals"
+      ],
+      "daily_health_routine": [
+        "Monitor pollen forecasts and plan outdoor activities accordingly",
+        "Use allergen-proof pillow and mattress covers",
+        "Keep windows closed during peak pollen times",
+        "Take antihistamines as prescribed by your doctor",
+        "Practice nasal irrigation with saline solution",
+        "Include immune-boosting foods in your diet",
+        "Stay well-hydrated to help thin mucus secretions"
+      ]
+    },
+    {
+      "name": "Anxiety Disorders",
+      "symptoms": [
+        "Excessive worrying",
+        "Feeling restless or on edge",
+        "Fatigue",
+        "Difficulty concentrating",
+        "Irritability",
+        "Muscle tension",
+        "Sleep disturbances"
+      ],
+      "precautions": [
+        "Seek professional counseling or therapy",
+        "Practice relaxation techniques, such as deep breathing or meditation",
+        "Establish a consistent sleep routine",
+        "Engage in regular physical activity",
+        "Limit caffeine and alcohol intake"
+      ],
+      "daily_health_routine": [
+        "Incorporate mindfulness meditation into daily activities",
+        "Establish a structured daily routine to reduce uncertainty",
+        "Stay socially connected with friends and family",
+        "Limit exposure to news and social media",
+        "Engage in activities that bring joy and relaxation",
+        "Prioritize self-care, including breaks during work or study",
+        "Consider cognitive-behavioral therapy (CBT) for long-term management"
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Unexplained weight loss",
+        "Fatigue",
+        "Blurred vision",
+        "Slow-healing wounds",
+        "Tingling or numbness in the extremities"
+      ],
+      "precautions": [
+        "Monitor blood sugar levels regularly",
+        "Adhere to a balanced and controlled diet",
+        "Take prescribed medications or insulin as directed",
+        "Engage in regular physical activity",
+        "Attend regular check-ups with a diabetes care team"
+      ],
+      "daily_health_routine": [
+        "Maintain a consistent schedule for meals and medication",
+        "Choose a diet rich in fiber, whole grains, and lean proteins",
+        "Engage in at least 150 minutes of moderate-intensity exercise per week",
+        "Monitor blood sugar levels before and after meals",
+        "Stay well-hydrated with water or other low-calorie beverages",
+        "Include stress-reducing activities in daily routine",
+        "Get regular eye and foot examinations to detect potential complications early"
+      ]
+    },
+    {
+      "name": "Gastroenteritis",
+      "symptoms": [
+        "Nausea and vomiting",
+        "Diarrhea",
+        "Abdominal cramps",
+        "Fever",
+        "Headache",
+        "Muscle pain",
+        "Dehydration"
+      ],
+      "precautions": [
+        "Practice good hand hygiene, especially after using the bathroom",
+        "Avoid contaminated food and water",
+        "Clean and disinfect surfaces regularly",
+        "Isolate yourself during illness to prevent spread",
+        "Stay hydrated with oral rehydration solutions"
+      ],
+      "daily_health_routine": [
+        "Wash hands thoroughly before handling or consuming food",
+        "Ensure proper cooking and storage of food items",
+        "Avoid raw or undercooked seafood and eggs",
+        "Stay up-to-date with vaccinations for related infections",
+        "Maintain a healthy gut by including probiotics in your diet",
+        "Seek medical attention promptly if symptoms of gastroenteritis arise",
+        "Stay well-hydrated, especially during hot weather or physical activity"
+      ]
+    },
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Joint pain and swelling",
+        "Morning stiffness",
+        "Fatigue",
+        "Joint warmth and redness",
+        "Limited range of motion",
+        "Fever",
+        "Weight loss"
+      ],
+      "precautions": [
+        "Take prescribed medications as directed",
+        "Attend regular check-ups with a rheumatologist",
+        "Engage in joint-friendly exercises",
+        "Apply hot or cold packs to affected joints",
+        "Use assistive devices to reduce joint strain"
+      ],
+      "daily_health_routine": [
+        "Include anti-inflammatory foods in your diet, such as fatty fish and berries",
+        "Engage in low-impact exercises like swimming or cycling",
+        "Practice stress-reducing activities, including meditation or yoga",
+        "Maintain a healthy weight to reduce stress on joints",
+        "Get adequate sleep to support overall well-being",
+        "Consider physical therapy for personalized joint care",
+        "Stay well-hydrated to support joint function"
+      ]
+    },
+    {
+      "name": "Depression",
+      "symptoms": [
+        "Persistent sadness or low mood",
+        "Loss of interest in activities",
+        "Changes in appetite and weight",
+        "Fatigue",
+        "Feelings of guilt or worthlessness",
+        "Difficulty concentrating",
+        "Thoughts of death or suicide"
+      ],
+      "precautions": [
+        "Seek professional counseling or therapy",
+        "Establish a support system of friends and family",
+        "Engage in regular physical activity",
+        "Establish a consistent sleep routine",
+        "Limit alcohol consumption"
+      ],
+      "daily_health_routine": [
+        "Incorporate mood-boosting foods into your diet, such as omega-3 rich fish",
+        "Engage in daily exercise, even if it's a short walk",
+        "Practice mindfulness or meditation to manage stress",
+        "Create and stick to a daily routine",
+        "Limit screen time and exposure to negative influences",
+        "Consider medication as prescribed by a mental health professional",
+        "Stay socially connected with loved ones"
+      ]
+    },
+    {
+      "name": "Stroke",
+      "symptoms": [
+        "Sudden numbness or weakness in the face, arm, or leg",
+        "Confusion or trouble speaking",
+        "Trouble seeing in one or both eyes",
+        "Severe headache with no apparent cause",
+        "Trouble walking or maintaining balance",
+        "Dizziness",
+        "Loss of coordination"
+      ],
+      "precautions": [
+        "Control blood pressure through medication and lifestyle changes",
+        "Quit smoking and limit alcohol consumption",
+        "Maintain a healthy weight through diet and exercise",
+        "Monitor cholesterol levels and manage with medications if necessary",
+        "Seek medical attention immediately if symptoms of a stroke occur"
+      ],
+      "daily_health_routine": [
+        "Adopt a heart-healthy diet rich in fruits, vegetables, and whole grains",
+        "Engage in regular aerobic exercise to promote cardiovascular health",
+        "Monitor and manage blood pressure within recommended levels",
+        "Quit smoking and avoid exposure to secondhand smoke",
+        "Limit alcohol intake to moderate levels",
+        "Undergo regular health check-ups to assess stroke risk factors",
+        "Be aware of and manage stress through relaxation techniques"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": [
+        "Throbbing or pulsating headache",
+        "Sensitivity to light and sound",
+        "Nausea and vomiting",
+        "Blurred vision",
+        "Aura (visual disturbances) for some",
+        "Neck pain or stiffness",
+        "Lightheadedness or fainting"
+      ],
+      "precautions": [
+        "Identify and avoid trigger factors, such as certain foods or stress",
+        "Establish a consistent sleep schedule",
+        "Stay hydrated and maintain regular meals",
+        "Use sunglasses in bright light and reduce screen time",
+        "Take prescribed medications as soon as symptoms start"
+      ],
+      "daily_health_routine": [
+        "Maintain a consistent sleep schedule, aiming for 7-8 hours each night",
+        "Stay hydrated by drinking plenty of water throughout the day",
+        "Adopt a regular meal schedule to prevent fluctuations in blood sugar",
+        "Identify and manage stress through relaxation techniques",
+        "Include magnesium-rich foods in your diet, such as nuts and leafy greens",
+        "Establish a quiet and dark environment during migraine attacks",
+        "Consider keeping a migraine diary to track triggers and patterns"
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": [
+        "Persistent cough with mucus production",
+        "Shortness of breath",
+        "Chest discomfort or pain",
+        "Fatigue",
+        "Mild fever and chills",
+        "Sore throat",
+        "Nasal congestion"
+      ],
+      "precautions": [
+        "Stay hydrated to help loosen mucus",
+        "Avoid smoke and other respiratory irritants",
+        "Take prescribed medications, such as bronchodilators or antibiotics",
+        "Use a humidifier to add moisture to the air",
+        "Rest and get plenty of sleep"
+      ],
+      "daily_health_routine": [
+        "Quit smoking and avoid exposure to secondhand smoke",
+        "Practice good respiratory hygiene, covering your mouth when coughing",
+        "Include immune-boosting foods in your diet, such as fruits and vegetables",
+        "Engage in moderate-intensity exercise to support respiratory health",
+        "Maintain a clean and dust-free living environment",
+        "Stay up-to-date with vaccinations for respiratory infections",
+        "Monitor symptoms closely and seek medical attention if they worsen"
+      ]
+    },
+    {
+      "name": "Osteoporosis",
+      "symptoms": [
+        "Bone pain or tenderness",
+        "Fractures with minimal trauma",
+        "Loss of height over time",
+        "Stooped posture",
+        "Back pain, caused by a fractured or collapsed vertebra",
+        "Bone fractures that occur easily",
+        "Decreased grip strength"
+      ],
+      "precautions": [
+        "Consume an adequate amount of calcium and vitamin D",
+        "Engage in weight-bearing exercises regularly",
+        "Quit smoking and limit alcohol intake",
+        "Undergo bone density testing as recommended",
+        "Discuss bone health with your healthcare provider"
+      ],
+      "daily_health_routine": [
+        "Include calcium-rich foods in your diet, such as dairy products and leafy greens",
+        "Take vitamin D supplements if recommended by your healthcare provider",
+        "Engage in weight-bearing exercises like walking, jogging, or weight training",
+        "Maintain a healthy body weight to reduce stress on bones",
+        "Avoid excessive alcohol consumption and smoking",
+        "Use assistive devices if needed to prevent falls",
+        "Attend regular check-ups to monitor bone health"
+      ]
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": [
+        "Cough with phlegm production",
+        "Fever and chills",
+        "Shortness of breath",
+        "Chest pain that worsens with breathing or coughing",
+        "Confusion (especially in older adults)",
+        "Fatigue",
+        "Nausea and vomiting"
+      ],
+      "precautions": [
+        "Get vaccinated against pneumonia",
+        "Practice good hand hygiene to prevent respiratory infections",
+        "Avoid smoking and secondhand smoke",
+        "Seek prompt medical attention for respiratory symptoms",
+        "Follow prescribed antibiotic treatments"
+      ],
+      "daily_health_routine": [
+        "Stay up-to-date with vaccinations for respiratory infections",
+        "Practice good respiratory hygiene, covering your mouth when coughing",
+        "Maintain overall health through a balanced diet and regular exercise",
+        "Avoid prolonged exposure to cold or damp environments",
+        "Stay well-hydrated to support respiratory function",
+        "Ensure good indoor ventilation to reduce the risk of respiratory infections",
+        "Monitor symptoms closely and seek medical attention if they worsen"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": [
+        "Headaches",
+        "Shortness of breath",
+        "Nosebleeds",
+        "Flushing or redness in the face",
+        "Dizziness or lightheadedness",
+        "Chest pain",
+        "Fatigue"
+      ],
+      "precautions": [
+        "Monitor blood pressure regularly",
+        "Adopt a low-sodium diet rich in fruits and vegetables",
+        "Engage in regular physical activity",
+        "Limit alcohol intake",
+        "Manage stress through relaxation techniques"
+      ],
+      "daily_health_routine": [
+        "Consume a diet rich in potassium, such as bananas and sweet potatoes",
+        "Maintain a healthy weight through a balanced diet and exercise",
+        "Limit caffeine intake to moderate levels",
+        "Engage in regular aerobic exercise to support cardiovascular health",
+        "Practice stress-reducing activities, such as meditation or deep breathing",
+        "Take prescribed medications as directed by your healthcare provider",
+        "Monitor and record blood pressure readings as advised"
+      ]
+    },
+    {
+      "name": "Kidney Disease",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Swelling in the ankles, legs, or around the eyes",
+        "Changes in urine frequency and color",
+        "Shortness of breath",
+        "Persistent itching",
+        "High blood pressure",
+        "Nausea and vomiting"
+      ],
+      "precautions": [
+        "Monitor blood pressure and blood sugar levels regularly",
+        "Adopt a kidney-friendly diet low in sodium and phosphorus",
+        "Stay well-hydrated with water",
+        "Avoid overuse of over-the-counter pain relievers",
+        "Limit alcohol intake"
+      ],
+      "daily_health_routine": [
+        "Consume a low-sodium and low-phosphorus diet as recommended by your healthcare provider",
+        "Stay well-hydrated by drinking an adequate amount of water",
+        "Engage in regular physical activity to support overall health",
+        "Monitor and manage blood pressure within recommended levels",
+        "Avoid smoking and limit alcohol intake",
+        "Attend regular check-ups with a nephrologist",
+        "Follow prescribed medications and treatment plans"
+      ]
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": [
+        "Joint pain after activity or overuse",
+        "Stiffness in the joints, especially after rest",
+        "Loss of flexibility",
+        "Grating sensation during joint movement",
+        "Bone spurs, visible as hard lumps around the joints",
+        "Joint swelling and tenderness",
+        "Decreased range of motion"
+      ],
+      "precautions": [
+        "Engage in low-impact exercises to maintain joint flexibility",
+        "Use joint protection techniques during daily activities",
+        "Maintain a healthy weight to reduce stress on joints",
+        "Apply hot or cold packs to alleviate joint pain",
+        "Consider physical therapy for personalized joint care"
+      ],
+      "daily_health_routine": [
+        "Include joint-friendly exercises in your daily routine, such as swimming or gentle yoga",
+        "Practice good posture to reduce strain on joints",
+        "Use assistive devices, such as braces or canes, if recommended",
+        "Apply warm compresses to alleviate joint stiffness",
+        "Maintain a healthy weight through a balanced diet and regular exercise",
+        "Take breaks during prolonged periods of activity to rest joints",
+        "Consult with a rheumatologist for personalized arthritis management"
+      ]
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue and weakness",
+        "Unexplained weight gain",
+        "Dry skin and brittle nails",
+        "Hair loss",
+        "Cold intolerance",
+        "Muscle aches and stiffness",
+        "Depression"
+      ],
+      "precautions": [
+        "Take prescribed thyroid hormone medications regularly",
+        "Follow up with regular thyroid function tests",
+        "Maintain a balanced diet with sufficient iodine",
+        "Avoid excessive consumption of soy products",
+        "Consult an endocrinologist for personalized advice"
+      ],
+      "daily_health_routine": [
+        "Include iodine in your diet through sources like iodized salt and seaweed",
+        "Engage in regular physical activity to support overall well-being",
+        "Ensure adequate sleep to support hormonal balance",
+        "Consume a diet rich in vitamins and minerals",
+        "Monitor and manage stress through relaxation techniques",
+        "Attend regular check-ups with an endocrinologist",
+        "Be cautious with caffeine intake as it may interfere with thyroid function"
+      ]
+    }
+  ]
+}
