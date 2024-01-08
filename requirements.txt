@@ -1,6 +1,5 @@
 flask
 scikit-learn
-pickle
 json
 pandas
 gunicorn
