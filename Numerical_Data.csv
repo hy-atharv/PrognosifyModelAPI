@@ -1,0 +1,176 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Num_Dis
+Influenza,1,0,1,1,19,0,1,2,1,1
+Common Cold,0,1,1,0,25,0,2,2,0,0
+Eczema,0,1,1,0,25,0,2,2,0,0
+Asthma,1,1,0,1,25,1,2,2,1,4
+Asthma,1,1,0,1,25,1,2,2,1,4
+Eczema,1,0,0,0,25,0,2,2,0,0
+Influenza,1,1,1,1,25,0,2,2,1,1
+Influenza,1,1,1,1,25,0,2,2,1,1
+Hyperthyroidism,0,1,0,0,28,0,2,2,0,0
+Hyperthyroidism,0,1,0,0,28,0,2,2,0,0
+Asthma,1,0,0,1,28,1,0,2,1,4
+Allergic Rhinitis,0,1,1,0,29,0,2,1,0,0
+Anxiety Disorders,0,1,0,0,29,0,2,0,0,0
+Common Cold,0,0,0,0,29,0,1,2,0,0
+Diabetes,0,0,0,0,29,1,1,2,0,0
+Gastroenteritis,0,1,0,0,29,0,2,2,0,0
+Rheumatoid Arthritis,0,1,1,1,29,0,0,0,0,0
+Depression,1,1,1,1,29,1,0,2,0,0
+Stroke,1,1,1,1,29,0,2,2,1,12
+Eczema,0,1,1,0,30,1,0,0,0,0
+Gastroenteritis,1,1,1,0,30,1,0,0,0,0
+Migraine,1,0,0,0,30,0,2,2,0,0
+Migraine,0,1,1,0,30,0,2,2,0,0
+Asthma,1,1,0,1,30,0,2,2,1,4
+Asthma,1,1,0,1,30,0,2,2,1,4
+Asthma,1,1,1,1,30,0,2,2,1,4
+Bronchitis,1,1,0,1,30,0,1,2,1,14
+Bronchitis,1,1,1,1,30,1,0,0,1,14
+Bronchitis,1,1,1,1,30,1,0,0,1,14
+Eczema,1,0,0,0,30,1,0,0,0,0
+Influenza,1,1,1,0,30,1,0,2,1,1
+Influenza,1,1,1,1,30,0,2,2,1,1
+Asthma,0,0,0,1,31,1,2,1,0,0
+Osteoporosis,0,0,0,1,31,1,1,2,0,0
+Common Cold,1,0,1,1,31,1,2,2,1,2
+Migraine,1,0,0,0,31,0,2,2,1,13
+Pneumonia,1,0,1,1,32,0,0,2,1,16
+Allergic Rhinitis,0,0,1,0,35,0,2,1,0,0
+Asthma,0,1,1,1,35,0,2,0,0,0
+Asthma,1,1,1,1,35,0,2,2,0,0
+Asthma,0,1,1,1,35,0,0,2,0,0
+Asthma,0,1,1,1,35,0,0,2,0,0
+Common Cold,1,1,1,0,35,1,0,2,0,0
+Eczema,0,1,0,0,35,1,0,2,0,0
+Hypertension,1,1,1,0,35,0,0,2,0,0
+Hyperthyroidism,1,1,1,0,35,0,2,2,0,0
+Pneumonia,1,1,1,1,35,0,2,2,0,0
+Pneumonia,1,1,1,1,35,0,2,2,0,0
+Asthma,1,1,0,1,35,1,2,2,1,4
+Asthma,1,1,0,1,35,1,2,2,1,4
+Depression,0,0,1,0,35,0,2,0,1,11
+Gastroenteritis,1,0,1,1,35,1,1,0,1,9
+Hyperthyroidism,1,1,1,0,35,1,0,0,1,5
+Hyperthyroidism,1,1,1,0,35,1,0,0,1,5
+Migraine,0,1,1,0,35,1,0,0,1,13
+Migraine,1,0,0,0,35,1,0,0,1,13
+Rheumatoid Arthritis,1,1,1,0,35,1,2,1,1,10
+Rheumatoid Arthritis,0,0,1,0,35,0,2,1,1,10
+Allergic Rhinitis,0,1,0,0,38,0,1,2,0,0
+Depression,0,0,0,0,38,0,2,0,0,0
+Gastroenteritis,0,0,0,0,38,1,2,1,0,0
+Influenza,0,0,0,0,38,1,2,2,0,0
+Kidney Disease,0,0,1,0,38,0,1,2,0,0
+Osteoporosis,0,1,0,0,38,0,2,0,0,0
+Stroke,1,1,0,0,38,0,0,2,0,0
+Anxiety Disorders,1,0,1,1,38,1,0,0,1,7
+Diabetes,1,0,1,1,38,1,0,1,1,8
+Migraine,1,1,0,0,38,1,0,0,1,13
+Osteoarthritis,1,1,1,0,38,1,0,0,1,19
+Pneumonia,1,1,1,1,38,1,2,2,1,16
+Bronchitis,0,1,0,1,40,0,2,2,0,0
+Diabetes,1,0,0,0,40,0,0,0,0,0
+Osteoarthritis,0,0,1,0,40,1,0,2,0,0
+Asthma,1,0,1,0,40,1,1,2,1,4
+Asthma,1,1,0,1,40,0,2,2,1,4
+Asthma,1,1,0,1,40,0,2,2,1,4
+Asthma,0,0,1,1,40,1,0,0,1,4
+Asthma,1,0,1,1,40,1,2,0,1,4
+Asthma,1,0,1,1,40,1,2,0,1,4
+Gastroenteritis,1,1,1,0,40,1,0,0,1,9
+Hyperthyroidism,0,0,1,0,40,1,0,0,1,5
+Pneumonia,1,1,1,1,40,0,2,0,1,16
+Anxiety Disorders,0,0,0,0,42,1,1,2,0,0
+Common Cold,1,1,0,0,42,0,0,0,0,0
+Depression,1,0,0,1,42,1,0,2,0,0
+Influenza,0,1,0,0,42,0,2,0,0,0
+Migraine,1,1,1,0,42,1,0,0,0,0
+Osteoarthritis,0,0,1,0,42,1,2,1,0,0
+Stroke,1,0,1,0,42,1,2,1,0,0
+Diabetes,1,1,1,0,42,1,0,2,1,8
+Hypothyroidism,1,1,1,0,42,0,0,0,1,20
+Hypothyroidism,1,1,1,0,42,0,0,0,1,20
+Kidney Disease,1,0,1,0,42,0,0,1,1,18
+Pneumonia,0,1,1,1,43,0,0,2,1,16
+Allergic Rhinitis,0,1,1,0,45,1,0,2,0,0
+Kidney Disease,1,1,0,0,45,1,2,0,1,18
+Migraine,0,0,0,0,45,0,1,2,0,0
+Rheumatoid Arthritis,1,0,0,0,45,1,2,2,0,0
+Stroke,0,0,1,0,45,1,2,2,0,0
+Allergic Rhinitis,1,1,1,0,45,1,0,2,1,6
+Anxiety Disorders,1,1,1,0,45,1,0,2,1,7
+Asthma,1,1,0,1,45,1,2,2,1,4
+Asthma,1,1,0,1,45,1,2,2,1,4
+Depression,0,0,1,0,45,0,0,0,1,11
+Diabetes,1,0,1,0,45,0,0,0,1,8
+Diabetes,0,1,1,0,45,1,2,0,1,8
+Hypertension,1,0,1,0,45,1,2,0,1,17
+Hypothyroidism,0,0,1,0,45,0,0,0,1,20
+Osteoarthritis,1,0,1,1,45,1,0,2,1,19
+Osteoporosis,1,1,1,0,45,0,2,0,1,15
+Pneumonia,1,1,1,1,45,1,0,0,1,16
+Hypertension,0,0,0,0,48,0,1,0,0,0
+Hypothyroidism,0,0,1,0,48,1,2,0,0,0
+Hypothyroidism,0,0,1,0,48,1,2,0,0,0
+Allergic Rhinitis,1,0,0,0,50,1,0,0,0,0
+Anxiety Disorders,0,0,1,0,50,1,2,2,0,0
+Depression,0,1,1,0,50,0,1,1,0,0
+Diabetes,0,1,0,0,50,1,2,0,0,0
+Hypertension,0,1,0,0,50,0,2,1,0,0
+Hypothyroidism,1,1,1,0,50,1,2,0,0,0
+Kidney Disease,0,1,0,1,50,1,2,2,0,0
+Rheumatoid Arthritis,0,1,0,0,50,0,1,2,0,0
+Asthma,1,1,1,1,50,0,2,0,1,4
+Bronchitis,1,1,1,1,50,1,0,0,1,14
+Eczema,0,1,0,0,50,0,0,0,0,0
+Gastroenteritis,1,1,1,1,50,0,0,2,1,9
+Stroke,0,1,1,1,50,1,0,0,1,12
+Hypertension,1,1,0,0,52,1,2,1,0,0
+Bronchitis,0,0,1,1,55,1,0,0,0,0
+Bronchitis,1,1,1,1,55,1,0,2,0,0
+Common Cold,1,0,1,1,55,1,2,1,0,0
+Diabetes,0,1,0,0,55,0,2,0,0,0
+Hypertension,0,1,0,0,55,0,2,1,0,0
+Migraine,0,1,1,1,55,0,2,1,0,0
+Osteoporosis,0,0,1,0,55,1,0,2,0,0
+Anxiety Disorders,1,1,0,0,55,0,2,1,1,7
+Hypertension,1,0,1,0,55,1,0,2,1,17
+Hypothyroidism,0,0,1,0,55,0,0,0,1,20
+Osteoarthritis,1,1,0,0,55,0,0,0,1,19
+Osteoporosis,1,0,1,1,55,1,0,1,1,15
+Osteoporosis,0,1,1,0,55,0,2,2,1,15
+Osteoporosis,1,0,1,0,55,0,2,2,1,15
+Osteoporosis,1,0,1,0,55,0,2,2,1,15
+Influenza,1,1,1,1,56,1,0,0,1,1
+Pneumonia,1,1,0,1,57,1,2,0,0,0
+Hyperthyroidism,0,0,1,0,60,1,2,2,0,0
+Osteoarthritis,0,1,0,1,60,0,2,2,0,0
+Osteoporosis,1,0,0,0,60,1,0,0,0,0
+Osteoporosis,0,1,0,0,60,1,0,0,0,0
+Osteoporosis,0,1,0,0,60,1,0,0,0,0
+Asthma,1,1,1,1,60,0,0,0,1,4
+Hypertension,0,0,1,0,60,0,0,2,1,17
+Hypertension,1,0,1,0,60,1,0,2,1,17
+Hypertension,0,0,0,0,60,0,0,0,1,17
+Kidney Disease,1,1,1,1,60,0,0,0,1,18
+Kidney Disease,1,1,1,1,50,0,0,0,1,18
+Osteoporosis,1,0,1,0,60,1,0,2,1,15
+Rheumatoid Arthritis,0,0,1,0,60,0,0,0,1,10
+Diabetes,0,0,1,0,65,1,2,0,0,0
+Stroke,1,0,1,0,65,0,0,1,0,0
+Stroke,1,0,1,0,65,0,0,1,0,0
+Bronchitis,1,0,1,1,65,1,0,0,1,14
+Diabetes,1,1,1,0,65,0,2,0,1,8
+Osteoporosis,0,1,1,0,65,0,0,0,1,15
+Stroke,1,1,1,0,65,0,0,0,1,12
+Osteoporosis,1,0,0,0,70,1,2,2,0,0
+Migraine,0,0,1,0,70,0,2,2,1,13
+Stroke,0,1,0,0,70,1,2,0,1,12
+Stroke,0,1,0,0,70,1,2,0,1,12
+Stroke,1,0,1,0,80,0,0,0,1,12
+Stroke,1,0,1,0,80,0,0,0,1,12
+Stroke,1,0,1,0,85,1,0,0,1,12
+Stroke,1,0,1,0,85,1,0,0,1,12
+Stroke,1,0,1,0,90,0,0,0,1,12
+Stroke,1,0,1,0,90,0,0,0,1,12
