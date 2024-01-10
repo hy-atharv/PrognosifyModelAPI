@@ -29,6 +29,34 @@
       ]
     },
     {
+  "name": "Myocardial Infarction (Heart Attack)",
+  "symptoms": [
+    "Chest pain or discomfort, often described as a tightness, pressure, squeezing, or burning sensation",
+    "Pain or discomfort that may radiate to the arms, neck, jaw, shoulder, or back",
+    "Shortness of breath or difficulty breathing",
+    "Cold sweat, nausea, or lightheadedness",
+    "Fatigue or weakness",
+    "Anxiety or a feeling of impending doom",
+    "Pain or discomfort in the upper abdomen"
+  ],
+  "precautions": [
+    "Seek emergency medical attention immediately if you suspect a heart attack",
+    "Chew and swallow aspirin as directed by a healthcare professional",
+    "Stay calm and try to keep your breathing steady",
+    "Avoid activities that could strain the heart, such as heavy lifting",
+    "Follow the prescribed medications and treatment plan from your healthcare provider"
+  ],
+  "daily_health_routine": [
+    "Adopt heart-healthy dietary habits, focusing on a low-fat and low-sodium diet",
+    "Engage in regular cardiovascular exercises, such as brisk walking or cycling",
+    "Monitor and manage blood pressure and cholesterol levels",
+    "Quit smoking and limit alcohol intake",
+    "Manage stress through relaxation techniques, meditation, or yoga",
+    "Attend regular follow-up appointments with a cardiologist",
+    "Be aware of the risk factors for heart disease and take preventive measures"
+  ]
+},
+    {
       "name": "Common Cold",
       "symptoms": [
         "Runny or stuffy nose",
