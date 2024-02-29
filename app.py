@@ -2,6 +2,8 @@ import json
 import sklearn
 import pickle
 from flask import Flask, request, jsonify
+from mailer import MailRep
+from presPDF import Pres
 import pandas as pd
 
 app = Flask(__name__)
@@ -50,6 +52,27 @@ def prognosis():
     except Exception as e:
         print(f"Error in API: {str(e)}")
         return "API Error"
+
+
+@app.route('/mail_prescription', methods=['GET', 'POST'])
+def prescription():
+    if request.method == 'POST':
+        # Get the JSON data from the request
+        data = request.get_json()
+        mail = data.get('email', "")
+        doc_name = data.get('doc_name', "")
+        data.pop("email")
+        data.pop("doc_name")
+
+        file = Pres(doc_name, data)
+
+        status = MailRep(file, doc_name, mail)
+
+        # Determine the final message based on majority results
+        if status == 1:
+            return {'status': True}
+        else:
+            return {'status': False}
 
 
 def preprocess_user_input(user_input):
